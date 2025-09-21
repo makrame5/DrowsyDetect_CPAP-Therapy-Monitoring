@@ -285,15 +285,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 👥 Team
-
-- **Main Development** : [Your name]
-- **Detection Algorithms** : [AI Team]
-- **User Interface** : [UX/UI Team]
-- **Clinical Validation** : [Medical Team]
-
----
-
 ## 🙏 Acknowledgments
 
 - **MediaPipe** for facial detection
